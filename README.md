@@ -1,3 +1,3 @@
 # icora.github.io
 ICora主页
-Copy form https://github.com/Tomotoes/
+- 原作者 https://github.com/Tomotoes/
